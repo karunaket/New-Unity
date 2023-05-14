@@ -4,7 +4,7 @@ public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody rb;
 
-    public float ForwardForce = 2000f;
+    public float ForwardForce = 1000f;
     public float SidewaysForce = 2000f;
 
 
